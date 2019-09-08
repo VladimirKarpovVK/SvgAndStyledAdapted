@@ -1,2 +1,0 @@
-# SvgAndStyledAdapted
-Created with CodeSandbox
